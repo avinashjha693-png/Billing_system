@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Frontend",
+			"path": "~1/billing-system"
+		}
+	],
+	"settings": {
+		"terminal.integrated.cwd": "${workspaceFolder}"
+	}
+}
